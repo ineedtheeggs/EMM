@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+
+# OS files
+.DS_Store
+*.swp
+
+# Temporary / lock files
+.~lock.*
+
+# Ignore plots if you regenerate them
+*.png
+
+# Ignore CSVs that are results, not source
+*.csv
+
+#Ignoring test files
+Test\ Files
+
+
