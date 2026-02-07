@@ -1,4 +1,4 @@
-#EMM
+# EMM
 
 A repo for Electricity market modelling projects that interest me.
 
